@@ -177,6 +177,7 @@ List of tutorial participants
 - Megan Hoffman (University of California, San Diego)
 - Sivan Barashy (University of California, San Diego)
 - Stacee Santos (Boston College)
+- Jillian Stegemann (Wingate University)
 
 .. _Github issues overview:
 
